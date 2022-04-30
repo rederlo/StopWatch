@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=stopwatch
+Exec=com.github.rederlo.StopWatch
+Icon=com.github.rederlo.StopWatch
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

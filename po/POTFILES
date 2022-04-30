@@ -1,0 +1,7 @@
+data/com.github.rederlo.StopWatch.desktop.in
+data/com.github.rederlo.StopWatch.appdata.xml.in
+data/com.github.rederlo.StopWatch.gschema.xml
+src/window.ui
+src/main.js
+src/window.js
+
